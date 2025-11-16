@@ -102,4 +102,3 @@ npm run dev:all
 
 ## Acknowledgments
 - Built with React, Vite, and the Google Gemini SDK.
-- Logo: `mammoth.png` used throughout the UI.
