@@ -1,0 +1,7 @@
+{
+  "name": "Mammoth ReServe",
+  "description": "An application for student groups and dining staff to log surplus food, which automatically alerts local organizations and tracks the environmental impact of donations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
